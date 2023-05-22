@@ -6,7 +6,7 @@
 
 <br>
 
- ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
+ ## &nbsp; <img src="https://gifdb.com/gif/blushing-hug-emoji-3oiog8j560s1blzu.html" width="30" align="center"> &nbsp;About me
  
 <!-- - 🚀 My portfolio **[ evander.vercel.app](https://evander.vercel.app/)**; -->
  
@@ -14,7 +14,54 @@
 
 - 💬 Ask me about ReactJS;
 
-- 📫 If you want to send a message.  **evander.20112@hotmail.com**
+- 📫 If you want to send a message.  **marilugonzaga1@gmail.com**
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
+<div align="left">
+ <p>
+    <a href='https://html.com/'>
+      <img src="https://skillicons.dev/icons?i=html"/>
+    </a>
+    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
+      <img src="https://skillicons.dev/icons?i=css"/>
+    </a>
+    <a href='https://www.javascript.com/'>
+      <img src="https://skillicons.dev/icons?i=js"/>
+    </a>
+    <a href='https://reactjs.org/'>
+      <img src="https://skillicons.dev/icons?i=react"/>
+    </a>
+    <a href='https://git-scm.com/'>
+     <img src="https://skillicons.dev/icons?i=git"/>
+    </a>
+    <a href='https://styled-components.com/'>
+      <img src="https://skillicons.dev/icons?i=styledcomponents"/>
+    </a>
+    <a href='https://www.figma.com/'>
+     <img src="https://skillicons.dev/icons?i=figma"/>
+    </a>
+ </p>
+
+</div>
+  
+<br>
+
+## 👨🏻‍💼 &nbsp;Connect with Me
+
+<p align="left">
+ 
+ <a href="https://www.linkedin.com/in/maria-luiza-santos-gonzaga-a3b45395/" alt="Linkedin">
+  <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/evander-inacio"/> 
+ </a>
+ 
+<!--  <a href="https://evander.vercel.app/" alt="Portfolio">
+  <img width="178px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.evanderinacio.com/"/>
+ </a> -->
+
+ </p>
 
 <br>
 
