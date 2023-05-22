@@ -6,7 +6,7 @@
 
 <br>
 
- ## &nbsp; <img src="https://gifdb.com/gif/blushing-hug-emoji-3oiog8j560s1blzu.html" width="30" align="center"> &nbsp;About me
+ ## About me
  
 <!-- - 🚀 My portfolio **[ evander.vercel.app](https://evander.vercel.app/)**; -->
  
@@ -18,7 +18,7 @@
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## Tech Stack
 
 <div align="left">
  <p>
@@ -49,7 +49,7 @@
   
 <br>
 
-## 👨🏻‍💼 &nbsp;Connect with Me
+## Connect with Me
 
 <p align="left">
  
