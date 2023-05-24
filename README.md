@@ -8,7 +8,7 @@
 
  ## About me
  
-<!-- - 🚀 My portfolio **[ evander.vercel.app](https://evander.vercel.app/)**; -->
+<!-- - 🚀 My portfolio ****; -->
  
 - 👨‍🎓 I'm **front-end programmer**;
 
@@ -49,7 +49,7 @@
   
 <br>
 
-## Connect with Me
+## Connect with me
 
 <p align="left">
  
